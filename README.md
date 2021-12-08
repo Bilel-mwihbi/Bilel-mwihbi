@@ -4,7 +4,7 @@ My Name is Bilel Mouihbi , i'm from Tunisia and
 i'am an information technology student at ISET charguia majoring in web development.<br>
 
 
-I'm always trying  to enhance my knowledge and web dev skills.<br>
+I'm always trying  to enhance my knowledge and my web dev skills.<br>
 
 
 Outside Tech, I love to play video games , watch anime  , enjoy music and explore nature outdoors.
