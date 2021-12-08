@@ -7,7 +7,7 @@ i'am an information technology student at ISET charguia majoring in web developm
 I'm always trying  to enhance my knowledge and web dev skills.<br>
 
 
-Outside Tech, I love to play video games , enjoy music and explore nature outdoors.
+Outside Tech, I love to play video games , watch anime  , enjoy music and explore nature outdoors.
 
 ## 🌱 I’m currently learning 
 ### Higher institute of technological studies of charguia 
